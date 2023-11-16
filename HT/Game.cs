@@ -27,6 +27,34 @@ namespace HT
             }
         }
 
+        public static void Mousetrap(params Team[] teams)
+        {
+            Beach(teams);
+        }
 
+        public static void Sea(params Team[] teams)
+        {
+            Beach(teams);
+        }
+
+        public static void Fishing(params Team[] teams)
+        {
+            Beach(teams);
+        }
+
+        public static void Postman(params Team[] teams)
+        {
+            Beach(teams);
+        }
+
+        public static void Slide(params Team[] teams)
+        {
+            Beach(teams);
+        }
+
+        public static void TheBestGameEver(params Team[] teams)
+        {
+            Beach(teams);
+        }
     }
 }
